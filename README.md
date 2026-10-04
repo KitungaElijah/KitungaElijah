@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Kitunga Elijah 👋
 
-<!--
-**KitungaElijah/KitungaElijah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Website Bug Fix Specialist | Nairobi, Kenya**
 
-Here are some ideas to get you started:
+I help businesses fix website errors fast. If your site is broken, slow, or showing errors - I fix it in 24 hours.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Fix:
+- Broken forms, buttons, links
+- Mobile responsive issues
+- JavaScript errors & PHP bugs
+- White screen, 404, 500 errors
+- Slow loading & speed optimization
+
+### 💻 Tech Stack:
+`HTML` `CSS` `JavaScript` `jQuery` `React` `PHP`
+
+### 📂 Featured Fixes:
+- Fixed e-commerce checkout bug (React)
+- Fixed WordPress contact form not sending
+- Fixed mobile menu not opening
+
+### 📫 Hire Me:
+- Fiverr: [https://www.fiverr.com/kitungaelijah]
+- Email: kitunga@email.com
+
+> Fast, clean fixes - no breaking your site.
